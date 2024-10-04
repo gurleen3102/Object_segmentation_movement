@@ -10,5 +10,6 @@ This project implements an Object Segmentation Tool that utilizes deep learning 
 
 # To run 
 ```
-python obj.py --image "F:\\assignment_H3\\bagpack.jpg" --object "bagpack" --output "./generated.png"
+python obj.py --image "path/to/your/image.jpg" --object "object_name" --output "path/to/output_image.png"
+
 ```
